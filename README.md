@@ -42,9 +42,10 @@ Para ejecutar el proyecto:
 
 =====Menu Recursividad=====
 1. Suma de numeros enteros consecutivos
-2. Potencia de un numero
-3. Suma de digitos de un numero
-4. Salir
+2. Fibonacci
+3. Potencia de un numero
+4. Suma de digitos de un numero
+5. Salir
 
 -> Elige una opcion: 1
 Ingresa un numero: 5
